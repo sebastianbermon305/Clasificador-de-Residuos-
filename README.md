@@ -14,3 +14,5 @@ La incorrecta separación de residuos en la fuente dificulta el reciclaje y aume
 * 3x Servomotores
 * 1x Sensor ultrasónico HC-SR04
 * Protoboard, cables jumper y fuente de alimentación externa para los servomotores.
+
+## Integrantes
